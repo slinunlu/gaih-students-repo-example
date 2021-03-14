@@ -1,7 +1,7 @@
-# GAIH Student Repo Example
+# GAIH Student Selin Ünlü
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 08.03.2021  
 **Name:** Selin  
 **Surname:** Ünlü  
 **Email:** streselin@gmail.com  
